@@ -31,55 +31,54 @@
 
 Here you'll find some of the mobile applications I've developed, including real-life projects and training projects. Each project showcases my skills in cross-platform mobile development using Flutter, React Native, and other technologies.
 
-## Real-Life Projects
+### Mobile applications
 
 ### 1. [WatFil Client App](https://play.google.com/store/apps/details?id=com.watfil.client)
 A mobile app for water delivery services, connecting users with local water suppliers. Developed using Flutter, with API integration and optimized UI/UX.
 
-### 2. [Salon Marketing Solutions](https://salonmarketingsolutions.com.au)
-A web-based solution for salon businesses to manage marketing and appointments.
-
-### 3. [Sheer Serenity](https://www.sheerserenity.com.au)
-A platform providing spa and wellness services, developed with a focus on UX and responsive design.
-
-### 4. [Vervenoosa](https://www.vervenoosa.com.au)
-An e-commerce platform for beachwear, built with cross-platform compatibility in mind.
-
-### 5. [Merit University Website](https://www.merit.edu.eg)
-A university website for managing information and online services.
-
-### 6. [Aram Stores](https://aramstores.com)
-An e-commerce app for a department store, focused on smooth navigation and a seamless user experience.
-
-### 7. [Economic Warehouse](https://economic-warehouse.com)
-A platform to facilitate B2B transactions with enhanced search and product filtering features.
-
-## Training Projects
-
-### 1. [Upwork Flutter App](https://github.com/Romany-Mounir/upworkflutter)
+### 2. [Upwork Flutter App](https://github.com/Romany-Mounir/upworkflutter)
 A project designed for freelance management, featuring task and client tracking, built using Flutter.
 
-### 2. [React To-Do App](https://romany-mounir.github.io/react-todo/)
+### 3. [React To-Do App](https://romany-mounir.github.io/react-todo/)
 A simple to-do app created using React, showcasing state management and responsive design.
 
-### 3. [Little Lemon Restaurant App](https://romany-mounir.github.io/little-lemom-resturant/)
-A restaurant app for managing orders and reservations, developed using React.
-
-### 4. [Dashboard for Upwork](https://github.com/Romany-Mounir/dashboardupwork)
-A dashboard project for managing freelance work, built with React and state management tools.
-
-### 5. [Language Learning App](https://github.com/Romany-Mounir/language-learning-app)
+### 4. [Language Learning App](https://github.com/Romany-Mounir/language-learning-app)
 An interactive app for learning languages with quizzes and flashcards, developed with Flutter.
 
-### 6. [Basketball Points Counter App](https://github.com/Romany-Mounir/basketball-score-counter)
+### 5. [Basketball Points Counter App](https://github.com/Romany-Mounir/basketball-score-counter)
 A simple app for keeping track of basketball scores, built with Flutter.
 
-### 7. [Business Card App](https://github.com/Romany-Mounir/business-card-app)
+### 6. [Business Card App](https://github.com/Romany-Mounir/business-card-app)
 An app for creating and sharing digital business cards, built with Flutter.
 
-### 8. [Birthday Card App](https://github.com/Romany-Mounir/birthday-card-app)
+### 7. [Birthday Card App](https://github.com/Romany-Mounir/birthday-card-app)
 An app to send personalized birthday cards, featuring a simple UI built with Flutter.
 
+### Web applications
+
+### 1. [Salon Marketing Solutions](https://salonmarketingsolutions.com.au)
+A web-based solution for salon businesses to manage marketing and appointments.
+
+### 2. [Sheer Serenity](https://www.sheerserenity.com.au)
+A platform providing spa and wellness services, developed with a focus on UX and responsive design.
+
+### 3. [Vervenoosa](https://www.vervenoosa.com.au)
+An e-commerce platform for beachwear, built with cross-platform compatibility in mind.
+
+### 4. [Merit University Website](https://www.merit.edu.eg)
+A university website for managing information and online services.
+
+### 5. [Aram Stores](https://aramstores.com)
+An e-commerce app for a department store, focused on smooth navigation and a seamless user experience.
+
+### 6. [Economic Warehouse](https://economic-warehouse.com)
+A platform to facilitate B2B transactions with enhanced search and product filtering features.
+
+### 7. [Little Lemon Restaurant App](https://romany-mounir.github.io/little-lemom-resturant/)
+A restaurant app for managing orders and reservations, developed using React.
+
+### 8. [Dashboard for Upwork](https://github.com/Romany-Mounir/dashboardupwork)
+A dashboard project for managing freelance work, built with React and state management tools.
 ---
 
 Feel free to explore the individual projects above for more details!
